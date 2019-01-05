@@ -8,13 +8,13 @@ Database website: https://grouplens.org/datasets/movielens/
 
 This repository include:
 
-## DataPreviews: 
+### DataPreviews: 
 Includes how we retrieved, merged and analyze the data, they are implemented in .py, and there are also plots and tables that were generated about the dataset features.
 
-## SQL_statement: 
+### SQL_statement: 
 In order to have an entire view of the big 20M dataset, we use SQL statement to extract, aggregate and merge the data. This folder contains all those SQL statements and the output tables.
 
-## related_tutorial: 
+### related_tutorial: 
 Before working on this project, we found some usefull papers and tutorial ppts from website, we collect them there.
 
 small_dataset.db: We built this file in a local database software, in order to analyze by using sql statements
