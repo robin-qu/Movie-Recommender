@@ -1,0 +1,661 @@
+count(a.movieId),b.tag,min(b.relevance)
+191,imdb top 250,0.90025
+89,criterion,0.9015
+88,masterpiece,0.90025
+64,classic,0.90075
+57,great acting,0.90075
+46,oscar (best directing),0.904
+43,tense,0.90275
+39,oscar (best picture),0.9045
+36,black and white,0.9035
+30,drama,0.90025
+29,original,0.90025
+29,storytelling,0.90025
+28,enigmatic,0.90075
+27,loneliness,0.90025
+27,oscar (best actor),0.9015
+26,bleak,0.90325
+26,talky,0.90175
+25,crime,0.905
+24,adapted from:book,0.90425
+24,complex,0.901
+24,dramatic,0.9085
+23,amazing cinematography,0.9025
+23,suspense,0.911
+22,great ending,0.903
+22,powerful ending,0.90225
+22,twists & turns,0.91125
+22,visually appealing,0.90075
+21,cinematography,0.90225
+21,excellent script,0.9105
+21,meditative,0.905
+21,narrated,0.909
+21,violence,0.90225
+21,violent,0.90475
+20,japan,0.9365
+20,oscar (best actress),0.90625
+20,oscar (best supporting actor),0.907
+20,social commentary,0.92575
+19,murder,0.902
+19,stylized,0.90825
+19,world war ii,0.9425
+18,cerebral,0.91225
+18,great movie,0.904
+18,intimate,0.907
+18,oscar (best cinematography),0.9175
+18,visually stunning,0.903
+17,bittersweet,0.90925
+17,dark,0.91325
+17,psychological,0.902
+17,reflective,0.90375
+17,suspenseful,0.90125
+17,visual,0.903
+16,action,0.908
+16,nazis,0.906
+16,poignant,0.90375
+16,police investigation,0.91975
+16,wwii,0.907
+15,comedy,0.90675
+15,hitchcock,0.90525
+15,oscar (best foreign language film),0.929
+15,story,0.90025
+14,best war films,0.9205
+14,noir,0.91025
+14,noir thriller,0.91525
+14,war,0.90175
+13,adventure,0.90775
+13,brutality,0.9015
+13,complicated,0.9005
+13,epic,0.902
+13,fantasy world,0.901
+13,golden palm,0.918
+13,greed,0.9005
+13,imagination,0.90375
+13,obsession,0.90325
+13,relationships,0.90075
+12,dark humor,0.918
+12,documentary,0.90025
+12,foreign,0.90375
+12,franchise,0.90525
+12,gangsters,0.90075
+12,highly quotable,0.93325
+12,investigation,0.90225
+12,murder mystery,0.90475
+12,organized crime,0.90675
+12,visceral,0.9045
+12,wartime,0.903
+11,afi 100,0.90825
+11,amazing photography,0.90575
+11,animation,0.91025
+11,based on a book,0.90025
+11,corruption,0.90025
+11,downbeat,0.901
+11,emotional,0.9025
+11,film noir,0.9035
+11,french,0.90275
+11,gangster,0.90375
+11,history,0.907
+11,insanity,0.90775
+11,kurosawa,0.90975
+11,mentor,0.90025
+11,plot twist,0.90225
+11,quotable,0.90275
+11,touching,0.9255
+11,trilogy,0.923
+10,based on book,0.91375
+10,futuristic,0.9205
+10,good soundtrack,0.91275
+10,nazi,0.90975
+10,political,0.90125
+10,sci fi,0.9505
+10,science fiction,0.90975
+10,scifi,0.931
+10,screwball comedy,0.9495
+10,series,0.92275
+10,space,0.9035
+10,surreal,0.9085
+9,based on a play,0.9065
+9,childhood,0.91475
+9,existentialism,0.90325
+9,good acting,0.9115
+9,heartwarming,0.90625
+9,historical,0.90325
+9,intense,0.902
+9,love,0.901
+9,melancholic,0.90425
+9,oscar,0.90075
+9,oscar (best supporting actress),0.91575
+9,paris,0.9465
+9,small town,0.908
+9,stylish,0.91275
+9,true story,0.91475
+8,animated,0.9065
+8,anime,0.92575
+8,detective,0.9005
+8,exceptional acting,0.914
+8,good versus evil,0.90175
+8,grim,0.901
+8,heist,0.90675
+8,hit men,0.90925
+8,jews,0.94475
+8,mystery,0.91925
+8,oscar (best editing),0.91675
+8,oscar winner,0.904
+8,politics,0.9165
+8,psychology,0.9055
+8,sci-fi,0.94075
+8,serial killer,0.916
+8,special effects,0.905
+7,adultery,0.91775
+7,beautifully filmed,0.907
+7,brutal,0.90225
+7,complicated plot,0.91025
+7,cult classic,0.911
+7,fighting,0.9025
+7,forceful,0.90025
+7,friendship,0.9005
+7,future,0.953
+7,genocide,0.9385
+7,germany,0.90425
+7,gratuitous violence,0.91425
+7,gunfight,0.97
+7,neo-noir,0.91675
+7,paranoia,0.905
+7,prison escape,0.905
+7,samurai,0.90525
+7,satire,0.903
+7,scenic,0.90025
+7,screwball,0.92375
+7,silent,0.92725
+7,surprise ending,0.90825
+7,thriller,0.91925
+7,twist ending,0.91325
+6,big budget,0.91525
+6,bloody,0.9165
+6,british,0.90375
+6,chase,0.9005
+6,claustrophobic,0.9135
+6,coming of age,0.91325
+6,court,0.919
+6,creepy,0.9045
+6,cynical,0.903
+6,dreams,0.9335
+6,fighting the system,0.92875
+6,france,0.9175
+6,francis ford copolla,0.99475
+6,holocaust,0.994
+6,innocence lost,0.9225
+6,interesting,0.9015
+6,long,0.90425
+6,magic,0.90825
+6,mindfuck,0.91225
+6,miyazaki,0.932
+6,mob,0.934
+6,mythology,0.9055
+6,non-linear,0.90725
+6,original plot,0.91075
+6,philosophical,0.91325
+6,poland,0.926
+6,redemption,0.90375
+6,romantic,0.90975
+6,secrets,0.9015
+6,space travel,0.90025
+6,spying,0.9165
+6,sword fight,0.90375
+6,technology,0.912
+6,twist,0.925
+6,us history,0.9055
+5,absurd,0.9015
+5,androids,0.90125
+5,artistic,0.917
+5,assassination,0.91725
+5,awesome soundtrack,0.9115
+5,based on a true story,0.90875
+5,camp,0.9215
+5,caper,0.9055
+5,claymation,0.98225
+5,conspiracy,0.9235
+5,courage,0.90075
+5,dialogue,0.90075
+5,disturbing,0.90325
+5,espionage,0.915
+5,fantasy,0.91575
+5,fast paced,0.92325
+5,good,0.911
+5,good action,0.91675
+5,heartbreaking,0.90375
+5,intellectual,0.932
+5,kubrick,0.904
+5,life,0.91275
+5,life & death,0.9165
+5,love story,0.9055
+5,mafia,0.9205
+5,melancholy,0.90425
+5,military,0.90925
+5,modern fantasy,0.9395
+5,musicians,0.9375
+5,oscar (best effects - visual effects),0.91
+5,poverty,0.93575
+5,prison,0.9085
+5,private detective,0.90575
+5,satirical,0.90225
+5,short,0.90625
+5,space opera,0.955
+5,tragedy,0.90325
+5,unlikely friendships,0.90025
+5,weird,0.92675
+5,western,0.989
+4,70mm,0.953
+4,aardman,0.911
+4,aardman studios,0.934
+4,assassin,0.9485
+4,based on true story,0.90175
+4,breathtaking,0.90525
+4,british comedy,0.90875
+4,character study,0.96175
+4,children,0.917
+4,civil war,0.9695
+4,cold war,0.92725
+4,compassionate,0.94525
+4,computer animation,0.922
+4,confusing,0.90725
+4,courtroom,0.95625
+4,courtroom drama,0.91475
+4,dark hero,0.9295
+4,desert,0.9055
+4,dynamic cgi action,0.904
+4,dystopic future,0.93625
+4,fairy tale,0.916
+4,fascism,0.9615
+4,father daughter relationship,0.95175
+4,frightening,0.92025
+4,gangs,0.91125
+4,german,0.9185
+4,hilarious,0.92575
+4,latin america,0.9205
+4,mother-son relationship,0.9235
+4,new york,0.927
+4,oscar (best animated feature),0.9915
+4,police,0.91825
+4,romance,0.90125
+4,rome,0.90025
+4,russian,0.92375
+4,scary,0.90475
+4,spanish,0.95025
+4,spielberg,0.94475
+4,spy,0.93175
+4,stand-up comedy,0.90175
+4,stop motion,0.93375
+4,studio ghibli,0.93875
+4,survival,0.91175
+4,time loop,0.9655
+4,treasure hunt,0.932
+4,unusual plot structure,0.98875
+4,vengeance,0.949
+4,vietnam war,0.957
+4,war movie,0.91075
+4,wizards,0.9705
+3,1930s,0.93
+3,adolescence,0.9015
+3,africa,0.9415
+3,aliens,0.90025
+3,alternate reality,0.91025
+3,anti-semitism,0.918
+3,art,0.901
+3,astronauts,0.982
+3,biographical,0.90175
+3,biopic,0.9175
+3,book was better,0.97975
+3,coen bros,0.998
+3,cooking,0.96075
+3,cool,0.911
+3,crime gone awry,0.907
+3,dialogue driven,0.948
+3,drugs,0.9235
+3,dystopia,0.9285
+3,england,0.92825
+3,exciting,0.924
+3,feel-good,0.90425
+3,firefly,0.9895
+3,god,0.958
+3,high fantasy,0.996
+3,hitman,0.92275
+3,horror,0.93125
+3,japanese,0.914
+3,justice,0.90325
+3,lawyer,0.91675
+3,lawyers,0.9645
+3,liv tyler,0.9945
+3,moral ambiguity,0.9075
+3,music,0.9485
+3,nasa,0.926
+3,new york city,0.92725
+3,nonlinear,0.92475
+3,nostalgic,0.942
+3,period piece,0.903
+3,pixar,0.904
+3,pixar animation,0.9785
+3,police corruption,0.90625
+3,race issues,0.952
+3,rape,0.91125
+3,romantic comedy,0.957
+3,russia,0.925
+3,saturn award (best special effects),0.95775
+3,sentimental,0.90925
+3,sports,0.93925
+3,star wars,0.97125
+3,stunning,0.92425
+3,surveillance,0.922
+3,swedish,0.9175
+3,sword fighting,0.961
+3,tarantino,0.962
+3,texas,0.91
+3,tolkien,0.9825
+3,undercover cop,0.991
+3,voyeurism,0.917
+2,addiction,0.98875
+2,affectionate,0.90275
+2,alien,0.99975
+2,allegory,0.9605
+2,animals,0.90375
+2,anti-war,0.909
+2,archaeology,0.99575
+2,art house,0.906
+2,artist,0.94475
+2,australia,0.95275
+2,batman,0.98275
+2,beautiful scenery,0.908
+2,boston,0.93
+2,brainwashing,0.92375
+2,china,0.945
+2,clever,0.9025
+2,clones,0.9515
+2,coen brothers,0.94075
+2,con artists,0.93325
+2,con men,0.9375
+2,costume drama,0.9325
+2,cult film,0.90175
+2,cyberpunk,0.988
+2,dance,0.94125
+2,dancing,0.911
+2,dark fantasy,0.959
+2,death,0.917
+2,depression,0.912
+2,destiny,0.966
+2,disability,0.922
+2,distopia,0.97375
+2,dreamlike,0.9035
+2,drug abuse,0.99525
+2,drug addiction,0.99325
+2,earnest,0.90775
+2,ennio morricone,0.963
+2,ensemble cast,0.9205
+2,excellent,0.9105
+2,factual,0.921
+2,fairy tales,0.9535
+2,farce,0.90475
+2,father son relationship,0.931
+2,feel good movie,0.96925
+2,food,0.92425
+2,foul language,0.93625
+2,funniest movies,0.9345
+2,funny,0.91675
+2,genius,0.942
+2,gilliam,0.935
+2,great dialogue,0.9585
+2,guns,0.9235
+2,gypsy accent,0.9995
+2,heroin,0.92375
+2,holiday,0.93875
+2,honest,0.9075
+2,hotel,0.9265
+2,humanity,0.91475
+2,imaginary friend,0.9415
+2,independent film,0.95375
+2,indiana jones,0.992
+2,inspiring,0.9315
+2,islam,0.94125
+2,jane austen,0.95
+2,jazz,0.9885
+2,jewish,0.91125
+2,jungle,0.9105
+2,kidnapping,0.913
+2,kids,0.90975
+2,kids and family,0.93725
+2,literary adaptation,0.9135
+2,literature,0.91075
+2,los angeles,0.96725
+2,lyrical,0.91075
+2,man versus machine,0.92725
+2,marx brothers,0.96025
+2,medieval,0.90825
+2,memory,0.9855
+2,memory loss,0.95175
+2,mistaken identity,0.9475
+2,musical,0.9025
+2,nocturnal,0.906
+2,nudity (full frontal - brief),0.958
+2,ominous,0.92925
+2,paranoid,0.92975
+2,photography,0.92025
+2,plot,0.9055
+2,political corruption,0.96675
+2,president,0.96025
+2,psychiatry,0.9325
+2,racing,0.93625
+2,rebellion,0.90925
+2,revenge,0.919
+2,revolution,0.93575
+2,rio de janeiro,0.9365
+2,robbery,0.907
+2,robot,0.905
+2,robots,0.95775
+2,rock and roll,0.96125
+2,sarcasm,0.905
+2,scotland,0.905
+2,sexual abuse,0.93925
+2,sexualized violence,0.90925
+2,shakespeare,0.95175
+2,single father,0.9475
+2,slow paced,0.906
+2,snakes,0.91075
+2,solitude,0.92625
+2,space program,0.95375
+2,spaghetti western,0.9365
+2,spain,0.9395
+2,stop-motion,0.941
+2,super hero,0.9785
+2,super-hero,0.92475
+2,superhero,0.9735
+2,superheroes,0.93325
+2,surrealism,0.91275
+2,sweet,0.9635
+2,tokyo,0.9635
+2,train,0.9675
+2,treasure,0.92575
+2,vampire,0.98825
+2,vampires,0.9935
+2,vietnam,0.90175
+2,vigilante,0.94375
+2,women,0.9035
+2,world politics,0.9075
+2,world war i,0.92875
+1,18th century,0.98525
+1,action packed,0.938
+1,adaptation,0.9275
+1,adoption,0.95225
+1,afterlife,0.9315
+1,alien invasion,0.901
+1,almodovar,0.995
+1,amnesia,0.96925
+1,animal movie,0.95075
+1,anti-hero,0.9365
+1,argentina,0.98125
+1,assassins,0.91775
+1,australian,0.963
+1,author:alan moore,0.99875
+1,author:neil gaiman,0.99975
+1,based on a comic,0.96175
+1,betrayal,0.9265
+1,biography,0.91625
+1,boat,0.92525
+1,book,0.92175
+1,brazil,0.93925
+1,brothers,0.953
+1,bullying,0.96525
+1,business,0.97975
+1,california,0.907
+1,cancer,0.9765
+1,capitalism,0.949
+1,carrie-anne moss,0.925
+1,cartoon,0.90125
+1,cathartic,0.9115
+1,chess,0.96775
+1,child abuse,0.93625
+1,christianity,0.9085
+1,christmas,0.999
+1,classical music,0.9895
+1,cloning,0.96725
+1,college,0.948
+1,colourful,0.9025
+1,comic book,0.90375
+1,coming-of-age,0.96075
+1,communism,0.9465
+1,conspiracy theory,0.9065
+1,cross dressing,0.98175
+1,culture clash,0.906
+1,cyborgs,0.9035
+1,dc comics,0.916
+1,deadpan,0.9575
+1,death penalty,0.937
+1,depressing,0.92775
+1,dog,0.9435
+1,dogs,0.94225
+1,dragons,0.99625
+1,drinking,0.95
+1,dysfunctional family,0.9705
+1,east germany,0.996
+1,eccentricity,0.9185
+1,ecology,0.9135
+1,eerie,0.925
+1,effects,0.9465
+1,egypt,0.95875
+1,end of the world,0.94875
+1,environment,0.90525
+1,ethnic conflict,1
+1,fake documentary,0.93625
+1,fight scenes,0.9625
+1,freedom,0.95575
+1,fun movie,0.9115
+1,funny as hell,0.965
+1,ghosts,0.9555
+1,ghosts/afterlife,1
+1,giant robots,0.9355
+1,good dialogue,0.90175
+1,good music,0.91625
+1,good sequel,0.90325
+1,goofy,0.9365
+1,great music,0.901
+1,gritty,0.91525
+1,gruesome,0.9205
+1,guilt,0.941
+1,hallucinatory,0.905
+1,hannibal lecter,0.95975
+1,harsh,0.9255
+1,hollywood,0.9535
+1,hong kong,0.9215
+1,humor,0.98425
+1,humorous,0.93825
+1,idealism,0.98425
+1,identity,0.902
+1,india,0.96225
+1,iran,0.977
+1,irish accent,0.9135
+1,irreverent,0.93625
+1,isolation,0.9315
+1,italian,0.9305
+1,italy,0.9075
+1,jesus,0.90675
+1,journalism,0.98175
+1,light,0.9225
+1,london,0.9125
+1,magic realism,0.97175
+1,manipulation,0.93225
+1,marriage,0.906
+1,martial arts,0.9085
+1,math,0.98325
+1,mathematics,0.975
+1,maze,0.93475
+1,mental illness,0.93875
+1,middle east,0.9635
+1,midlife crisis,0.99475
+1,mining,0.9625
+1,minnesota,0.91625
+1,mockumentary,0.9595
+1,monty python,0.97925
+1,moody,0.91375
+1,moon,0.94825
+1,mountain climbing,0.97575
+1,mozart,0.9995
+1,multiple storylines,0.94575
+1,music business,0.95325
+1,nature,0.90575
+1,nuclear war,0.9735
+1,off-beat comedy,0.9775
+1,oil,0.91175
+1,opera,0.9135
+1,oscar (best writing - screenplay written directly for the screen),0.9415
+1,parallel universe,0.91225
+1,parenthood,0.94425
+1,philosophy,0.915
+1,photographer,0.914
+1,psychiatrist,0.914
+1,pulp,0.9045
+1,quirky,0.9345
+1,realistic,0.95
+1,reality tv,0.9215
+1,road movie,0.95
+1,road trip,0.917
+1,robert ludlum,0.98925
+1,runaway,0.91625
+1,sacrifice,0.921
+1,sad,0.9165
+1,san francisco,0.93275
+1,science,0.9755
+1,segregation,0.91725
+1,sequel,0.9045
+1,sexual,0.90525
+1,short-term memory loss,0.99775
+1,skinhead,0.96225
+1,slavery,0.9745
+1,southern theme,1
+1,spies,0.94075
+1,splatter,0.918
+1,stage magic,0.997
+1,submarine,0.9775
+1,suburbia,0.949
+1,supernatural,0.97575
+1,suprisingly clever,1
+1,swashbuckler,0.93725
+1,talking animals,0.91825
+1,teleportation,0.9265
+1,television,0.9895
+1,terminal illness,0.945
+1,thought-provoking,0.91125
+1,time travel,0.91275
+1,too short,0.94225
+1,toys,0.99875
+1,trains,0.92725
+1,transgender,0.9035
+1,tricky,0.934
+1,united nations,0.965
+1,vienna,0.9875
+1,vigilantism,0.975
+1,virtual reality,0.98725
+1,weapons,0.9445
+1,whimsical,0.919
+1,wilderness,0.97425
+1,witch,0.95575
+1,witty,0.91675
+1,workplace,0.9055
+1,writer's life,0.961
