@@ -2,7 +2,7 @@ Collaborative Filtering Movie Recommender System
 ================================================
 
 
-This project performed collaborative filtering in user-item approach, item-item approach, knn, and unsupervised knn on MovieLen database to recommend movies for users based on ratings. The original database is large, for convenience, a small version of the dataset was used in this project.
+This project implements collaborative filtering in user-item approach, item-item approach, knn, on MovieLen database to recommend movies for users based on ratings. The original database is large, for convenience, a small version of the dataset was used in this project.
 
 Database website: https://grouplens.org/datasets/movielens/
 
