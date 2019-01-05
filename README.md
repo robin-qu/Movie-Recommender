@@ -1,5 +1,6 @@
-Project name: Collaborative Filtering Movie Recommender System
-Author: Hao Fang, Hongbin Qu
+Collaborative Filtering Movie Recommender System
+================================================
+
 
 This project performed collaborative filtering in user-item approach, item-item approach, knn, and unsupervised knn on MovieLen database to recommend movies for users based on ratings. The original database is large, for convenience, a small version of the dataset was used in this project.
 
