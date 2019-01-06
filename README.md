@@ -6,16 +6,18 @@ This project implements collaborative filtering recommendation system in memory-
 
 Database website: https://grouplens.org/datasets/movielens/
 
-### Project structure:
+## Project structure:
 
-DataPreviews directory: Includes how the data is retrieved, merged and analyzed, which are implemented in python, as well as plots and tables that are generated about the dataset features.
+Movie-Recommender: Contains python code that implement various algorithms to recommend movie.
 
-SQL_statement directory: Contains SQL statements that extract, aggregate and merge the data and the output tables.
+SQL directory: Contains SQL statements that extract, aggregate and merge the data and the output tables.
+
+dataOverview directory: Contains plots and tables that are generated about the dataset features.
+
+dataset: Contains MovieLens dataset.
 
 doc directory: Contains project report and poster.
 
-related_tutorial directory: Contains usefull papers and tutorials.
+reference directory: Contains usefull papers and tutorials.
 
-small_dataset.db: We built this file in a local database software, in order to analyze by using sql statements
-
-All .py files: All calculation, analyze processes and learning algorithms are implemented in these .py files.
+small_dataset.db: Built in a local database software, in order to using sql to analyze the dataset.
