@@ -77,3 +77,6 @@ C:.
 ```
 
 ## Result:
+
+The performance of different approaches, which is mearured by RMSE, can be shown in the figure below:
+![Image1](https://github.com/robin-qu/Movie-Recommender/blob/master/Movie-Recommender/error.png)
