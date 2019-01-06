@@ -22,6 +22,7 @@ reference directory: Contains usefull papers and tutorials.
 
 small_dataset.db: Built in a local database software, in order to using sql to analyze the dataset.
 
+```bash
 C:.
 │   LICENSE
 │   README.md
@@ -73,3 +74,6 @@ C:.
         movieId-count(rating)_mean_rating.csv
         rating-count(rating).csv
         rating-count(rating).sql
+...
+
+## Result:
