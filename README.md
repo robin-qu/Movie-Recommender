@@ -74,6 +74,6 @@ C:.
         movieId-count(rating)_mean_rating.csv
         rating-count(rating).csv
         rating-count(rating).sql
-...
+```
 
 ## Result:
